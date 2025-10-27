@@ -6,10 +6,6 @@ __pycache__/
 venv/
 .env/
 
-# Ignore dataset and archives
-dataset/
-*.zip
-
 # Ignore system files
 .DS_Store
 Thumbs.db
